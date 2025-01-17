@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8caf0376-f69b-483d-ab3a-ab7617561b16)# FA205_Workshop_4
+# FA205_Workshop_4
 
 Website link: https://mremily9.github.io/workshop-task-4/
 
